@@ -19,7 +19,7 @@ $font-size-mobile: 100%;
 // Setting this to 1 will make all fonts on the website the same size.
 // I would suggest a value between 1.2 and 1.5
 // default is 1.41
-$font-size-scale-factor: 1.4;
+$font-size-scale-factor: 1.5;
 
 // COLORS:
 
@@ -91,6 +91,11 @@ $sidebar-max-width: 500px;
   @media (min-width: 480px) {
     width: 49%;
   }
+}
+
+h3,
+h4 {
+  margin-bottom: 1.25em !important;
 }
 
 @media (min-width: 720px) {
