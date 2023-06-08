@@ -34,6 +34,15 @@ Materials: Tanzanite, 14k yellow gold
 ![Tanzanite Ring](/img/fj/tanzanite_final_1.jpg)
 ![Tanzanite Ring](/img/fj/tanzanite_final_2.jpg)
 
+## Aqua Tanzanite Cluster Earrings
+
+Studio: Facets of Earth
+Role: production
+
+![Aqua Tanzanite earrings](/img/fj/aqua_tanz_cluster_1.jpg){.pair}![Aqua Tanzanite earrings](/img/fj/aqua_tanz_cluster_2.jpg){.pair}
+
+![Aqua Tanzanite earrings](/img/fj/aqua_tanz_cluster_3.jpg)
+
 ## Cluster Earrings
 
 Studio: Facets of Earth
