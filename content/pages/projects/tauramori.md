@@ -55,12 +55,39 @@ These wings contain 2 types of iridescent color shift vinyl.
 
 ## Acrylic marigold earrings
 
+These earrings are made of glittering marbled acrylic with varying shades of orange, and etched with a gold engraving. They are posts with a large metal and plastic backing so they sit comfortably in the wearers' ear. They are an orginal design I made in Adobe Illustrator, laser-cut and assembled with gold plated steel posts, and should be safe for sensitive ears.
+
+![marigold earring set](/img/tm/mari1.jpg){.pair} ![marigold earring set](/img/tm/mari2.jpg){.pair}
+
+materials: acrylic, laser cut, laser engraved, gold plated, earring posts
+
+![marigold earring set](/img/tm/mari3.jpg){.pair} ![marigold earring set](/img/tm/mari4.jpg){.pair}
+
+![earrings review](/img/tm/marireview.png)
+
 ## Dandelion earrings and necklace
+
+![dandelion set](/img/tm/dandiset.png)
+
+Sterling silver engraved with an original dandelion design created by me in Adobe Illustrator. Pieces have a sanded matte finish and a darkened engraving done with a laser.
+
+![dandilion earring set](/img/tm/dandi.webp){.pair} ![dandilion necklace](/img/tm/dandi2.webp){.pair}
+![dandilion earring set](/img/tm/dandi3.webp){.pair} ![dandilion necklace](/img/tm/dandi4.webp){.pair}
 
 ## UFO Keyholder
 
-## Crystal Witch Hat Acrylic Earrings
+![ufo key holder](/img/tm/ufo.jpg){.pair} ![ufo key closed](/img/tm/ufo2.jpg){.pair}
+
+Made of vegetable-tanned engraved leather, this hand-sewn case fits a key by screwing it into place, allowing it to swing in and out of the UFO.
+
+![ufo key being held](/img/tm/ufo3.jpg)
 
 ## Poison Flower Snake Acrylic Earrings
+
+![snake earrings](/img/tm/snek.avif){.pair} ![snake earrings](/img/tm/snek2.avif){.pair}
+
+Made of gold etched black acrylic and shimmering orange acrylic with an iridescent orange glass crystal dangling inside. These ear wires come with rubber ear backings so the earrings stay in place on the ear of the wearer. They are an original, handmade design, laser-cut and assembled with gold plated steel ear wire.
+
+## Check out what's in stock at [tauramori.etsy.com](tauramori.etsy.com)
 
 ![Etsy store website](/img/etsy.png)

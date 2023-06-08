@@ -62,8 +62,8 @@ body {
   }
 }
 
-h3,
-h4 {
+article h3,
+article h4 {
   margin-bottom: 1.25em !important;
 }
 
