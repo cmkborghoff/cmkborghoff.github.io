@@ -4,7 +4,7 @@ tags: project
 subset: gd
 order:
 thumbnail: /img/poppy-thumb.jpg
-description_short:
+description_short: a series of wearable pieces exploring invasive plant species
 description_medium:
 eleventyNavigation:
   key: Invasive

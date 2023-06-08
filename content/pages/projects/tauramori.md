@@ -4,7 +4,7 @@ tags: project
 subset: gd
 order:
 thumbnail: /img/tauramori.jpeg
-description_short:
+description_short: online store featuring jewelery and accessories I design and produce
 description_medium:
 eleventyNavigation:
   key: TauraMori
