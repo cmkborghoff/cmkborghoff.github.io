@@ -66,6 +66,18 @@ body {
   .site-masthead h3 {
     font-size: 58px;
   }
+  .portfolio-tile {
+    max-height: 500px;
+  }
+}
+@media (max-width: 720px) {
+  .site-masthead {
+    background: #0e3a2c;
+  }
+  .site-masthead button {
+    font-size: 40px;
+    margin-top: -8px;
+  }
 }
 :root {
   font-size: 100%;

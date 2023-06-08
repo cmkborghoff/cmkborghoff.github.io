@@ -3,7 +3,7 @@ layout: project.njk
 tags: project
 subset: gd
 order:
-thumbnail: /img/work-photos/4_copy.jpg
+thumbnail: /img/poppy-thumb.jpg
 description_short:
 description_medium:
 eleventyNavigation:
