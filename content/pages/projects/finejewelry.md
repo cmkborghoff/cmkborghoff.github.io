@@ -43,7 +43,7 @@ Role: production
 
 ![Aqua Tanzanite earrings](/img/fj/aqua_tanz_cluster_3.jpg)
 
-## Cluster Earrings
+## Floral Cluster Earrings
 
 Studio: Facets of Earth
 Role: production
