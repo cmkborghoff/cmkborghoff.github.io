@@ -3,13 +3,17 @@ layout: project.njk
 tags: project
 subset: gd
 order:
-thumbnail: /img/work-photos/4_copy.jpg
-description_short:
+thumbnail: /img/poppy-thumb.jpg
+description_short: a series of wearable pieces exploring the forms and overlooked beauty in invasive plant species
 description_medium:
 eleventyNavigation:
   key: Invasive
   parent: Portfolio
 ---
+
+The body of work I produced for my undergraduate BFA thesis is an exploration of invasive species native to New York.
+
+Focusing on plants that are seen as ugly or unwanted, I looked closer at their form and anatomy. What makes these plants different from popularly cultivated ones? A focus of this project was replicating and understanding the forms of nature. I think the life cycles and stages of a plant’s growth make it much more complex and interesting than what we usually notice a plant for.
 
 ## _Trapa natans_ (Water Chestnut, 'Devil's Head')
 
@@ -39,10 +43,6 @@ Copper, enamel, leather, silver, thermoplastic, thread
 Copper, leather, paint, string
 
 ## About the project
-
-The body of work I produced for my undergraduate BFA thesis is an exploration of invasive species native to New York.
-
-Focusing on plants that are seen as ugly or unwanted, I looked closer at their form and anatomy. What makes these plants different from popularly cultivated ones? A focus of this project was replicating and understanding the forms of nature. I think the life cycles and stages of a plant’s growth make it much more complex and interesting than what we usually notice a plant for.
 
 Over the course of this year long project, I explored, researched, and dissected forms to understand how certain plants grow, populate, and decay. From this gathered knowledge, I experimented in how to construct these forms and represent their life cycle and function through such a rigid media.
 

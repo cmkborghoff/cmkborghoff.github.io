@@ -62,26 +62,43 @@ body {
   }
 }
 
+article h3,
+article h4 {
+  margin-bottom: 1.25em !important;
+}
+
 @media (min-width: 720px) {
   .site-masthead h3 {
     font-size: 58px;
   }
+  .portfolio-tile {
+    max-height: 500px;
+  }
+}
+@media (max-width: 720px) {
+  .site-masthead {
+    background: #0e3a2c;
+  }
+  .site-masthead button {
+    font-size: 40px;
+    margin-top: -8px;
+  }
 }
 :root {
-  font-size: 130%;
+  font-size: 100%;
   font-family: "Montserrat Alternates", sans-serif;
 }
 
 h1 {
-  font-size: 2.744rem;
+  font-size: 3.375rem;
 }
 
 h2 {
-  font-size: 1.96rem;
+  font-size: 2.25rem;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 
 h4,
@@ -254,8 +271,8 @@ pre {
 .portfolio-tile-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(max(450px, 33%), 1fr));
-  padding: 0px;
-  gap: 0px 0px;
+  padding: 20px;
+  gap: 20px 20px;
 }
 
 .portfolio-tile {
@@ -320,7 +337,7 @@ pre {
 }
 
 .portfolio-wide-text-sm {
-  font-size: 0.7142857143rem;
+  font-size: 0.6666666667rem;
 }
 
 .portfolio-wide-text-md {
@@ -396,7 +413,7 @@ html {
     padding-bottom: 2rem;
   }
   .sidebar-nav-link-section a {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
   }
@@ -481,7 +498,7 @@ section.big-text > :last-child {
   margin-bottom: 0;
 }
 section.big-text p {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 section.big-text > * {
   width: 100%;
