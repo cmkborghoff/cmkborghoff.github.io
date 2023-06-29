@@ -98,6 +98,15 @@ article h4 {
   margin-bottom: 1.25em !important;
 }
 
+.portfolio-tile {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  min-height: 400px;
+  background-position: center center;
+}
+
 @media (min-width: 720px) {
   .site-masthead h3 {
     font-size: 58px;
