@@ -6,5 +6,3 @@ portfolio_type: tile
 eleventyNavigation:
   key: Portfolio
 ---
-
-Selected jewelry and design work

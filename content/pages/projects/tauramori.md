@@ -2,13 +2,13 @@
 layout: project.njk
 tags: project
 subset: gd
-order:
 thumbnail: /img/tauramori.jpeg
 description_short: online store featuring jewelery and accessories I design and produce
 description_medium:
 eleventyNavigation:
   key: TauraMori
   parent: Portfolio
+  order: 20
 ---
 
 I run an online store called [TauraMori](https://www.etsy.com/shop/TauraMori) in my free time, where I create small batch jewelry and accessories. Most of the pieces use a variety of materials and fabrication techniques, including laser cutting and engraving, leatherwork, and sewing. I design, produce, pack, and ship everything myself.
@@ -17,7 +17,7 @@ Below are some selected pieces I've made through the years. To see more, check o
 
 ## Shoe/skate wings
 
-One of the most popular items I produce for TauraMori are wings that can be affixes through the laces onto shoes or rollerskates. I make them based off all different species of insects I find beautiful. I use my laser cutter to acheive the complex forms, and make them with longevity and quality in mind. I put a lot of pride and care into each set I make.
+One of the most popular items I produce for TauraMori are wings that can be affixed through the laces onto shoes or rollerskates. I make them based off all different species of insects I find beautiful. I use my laser cutter to acheive the complex forms, and make them with longevity and quality in mind. I put a lot of pride and care into each set I make.
 
 ![wings assortment](/img/tm/skatewings.jpg)
 

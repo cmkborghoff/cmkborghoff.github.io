@@ -1,6 +1,6 @@
 
-        <div class="portfolio-tile" >
-             <img src="{{project.thumbnail}}" alt="{{project.description_short}}">
+        <div class="portfolio-tile" style="background-image:url('{{project.thumbnail}}');"  >
+             <span aria-label="{{project.description_short}}"></span>
             <a class="portfolio-tile-text-overlay" href="{{project.page.url}}">
               <h2 class="portfolio-tile-project-title"href="{{project.url}}">{{ project.eleventyNavigation.key }}</h2>
               {% if project.description_short %}

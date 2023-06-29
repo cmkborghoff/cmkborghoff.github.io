@@ -2,13 +2,14 @@
 layout: project.njk
 tags: project
 subset: gd
-order:
+
 thumbnail: /img/fj/ginkgo_earrings_3.jpg
 description_short: assorted fine jewelry production projects
 description_medium:
 eleventyNavigation:
   key: Fine Jewlery
   parent: Portfolio
+  order: 30
 ---
 
 ## Ginko Earrings
