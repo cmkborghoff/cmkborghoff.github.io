@@ -29,9 +29,11 @@ materials: canvas, pleather, vinyl, leather
 ![page spread](/img/bags/Skywardsword_bag_sketch_1.jpg)
 ![skyward sword sketch detail](/img/bags/Skywardsword_bag_sketch_2.jpg) ![skyward sword sketch detail](/img/bags/Skywardsword_bag_sketch_3.jpg)
 
-### Digital Files
+### Digital Assets
 
 digital files created in Adobe Illustrator I used to plan my design, and create assets to cut materials with my laser cutter.
+
+![design plans](/img/bags/ss-plans.png)
 
 ### Detail Images
 
