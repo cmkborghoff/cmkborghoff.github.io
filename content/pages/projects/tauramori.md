@@ -17,7 +17,7 @@ Below are some selected pieces I've made through the years. To see more, check o
 
 ## Shoe/skate wings
 
-One of the most popular items I produce for TauraMori are wings that can be affixes through the laces onto shoes or rollerskates. I make them based off all different species of insects I find beautiful. I use my laser cutter to acheive the complex forms, and make them with longevity and quality in mind. I put a lot of pride and care into each set I make.
+One of the most popular items I produce for TauraMori are wings that can be affixed through the laces onto shoes or rollerskates. I make them based off all different species of insects I find beautiful. I use my laser cutter to acheive the complex forms, and make them with longevity and quality in mind. I put a lot of pride and care into each set I make.
 
 ![wings assortment](/img/tm/skatewings.jpg)
 
