@@ -12,7 +12,7 @@ eleventyNavigation:
   order: 10
 ---
 
-These are all custom bags I designed myself, and then produced using my hands, a sewing machine, and my laser cutter.
+These are all custom bags I designed myself, and then produced using my hands, sewing machine, and laser cutter.
 
 ![skyword sword bag](/img/bags/skywardsword_bag_8.jpg){.pair} ![rain bag final](/img/bags/rain_bag_1.jpg){.pair}
 ![alien bag](/img/bags/upcycled_black_bag_4.jpg){.pair} ![jojo's bag preview](/img/bags/JJBABackpack1tall.jpg){.pair}
@@ -28,6 +28,10 @@ materials: canvas, pleather, vinyl, leather
 
 ![page spread](/img/bags/Skywardsword_bag_sketch_1.jpg)
 ![skyward sword sketch detail](/img/bags/Skywardsword_bag_sketch_2.jpg) ![skyward sword sketch detail](/img/bags/Skywardsword_bag_sketch_3.jpg)
+
+### Digital Files
+
+digital files created in Adobe Illustrator I used to plan my design, and create assets to cut materials with my laser cutter.
 
 ### Detail Images
 
