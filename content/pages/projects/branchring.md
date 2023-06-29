@@ -2,13 +2,14 @@
 layout: project.njk
 tags: project
 subset: gd
-order:
+
 thumbnail: /img/branch/branch.png
 description_short: a custom designed wedding band inspired by tree branches
 description_medium:
 eleventyNavigation:
   key: Branch Ring
   parent: Portfolio
+  order: 100
 ---
 
 Studio: Facets of Earth

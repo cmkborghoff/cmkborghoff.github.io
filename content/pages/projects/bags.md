@@ -2,13 +2,14 @@
 layout: project.njk
 tags: project
 subset: gd
-order: 1
+
 thumbnail: /img/bags/skywardsword_bag_5.jpg
 description_short: soft goods and accessories I have designed and assembled
 description_medium:
 eleventyNavigation:
   key: Bags & Soft Goods
   parent: Portfolio
+  order: 10
 ---
 
 These are all custom bags I designed myself, and then produced using my hands, a sewing machine, and my laser cutter.

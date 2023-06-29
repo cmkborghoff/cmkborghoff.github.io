@@ -2,13 +2,14 @@
 layout: project.njk
 tags: project
 subset: gd
-order:
+
 thumbnail: /img/poppy-thumb.jpg
 description_short: a series of wearable pieces exploring the forms and overlooked beauty in invasive plant species
 description_medium:
 eleventyNavigation:
   key: Invasive
   parent: Portfolio
+  order: 80
 ---
 
 The body of work I produced for my undergraduate BFA thesis is an exploration of invasive species native to New York.
