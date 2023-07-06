@@ -1,5 +1,5 @@
 ---
-layout: project.njk
+layout: base.njk
 tags: page
 customTitle: About
 eleventyNavigation:
