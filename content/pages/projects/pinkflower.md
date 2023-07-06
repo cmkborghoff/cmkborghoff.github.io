@@ -38,7 +38,7 @@ added more branches, made ring more delicate and gave it more organic qualities.
 
 # Casting
 
-I worked with a casting vendor to print and cast our 3D rendering. It was returned to us in its raw state where I cleaned and polished it, and another jeweler in the studio set the stones before we delivered it to the customer.
+I worked with a casting vendor to print and cast our 3D rendering. It was returned to us in its raw state where I cleaned and polished it, and another jeweler in the studio set the stones before we delivered it to the client.
 
 ![raw casting](/img/pf/Pink_flower_casting_1.jpg){.pair} ![final design](/img/pf/Pink_flower_casting_2.jpg){.pair}
 
