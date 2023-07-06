@@ -9,7 +9,7 @@ description_medium:
 eleventyNavigation:
   key: Bags & Soft Goods
   parent: Portfolio
-  order: 10
+  order: 100
 ---
 
 These are all custom bags I designed myself, and then produced using my hands, sewing machine, and laser cutter.

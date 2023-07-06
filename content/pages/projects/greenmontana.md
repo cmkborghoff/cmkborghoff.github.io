@@ -8,7 +8,7 @@ description_medium:
 eleventyNavigation:
   key: Ring & Holder
   parent: Portfolio
-  order: 40
+  order: 33
 ---
 
 Studio: Facets of Earth

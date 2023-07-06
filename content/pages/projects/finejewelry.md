@@ -9,7 +9,7 @@ description_medium:
 eleventyNavigation:
   key: Fine Jewlery
   parent: Portfolio
-  order: 30
+  order: 60
 ---
 
 ## Ginko Earrings

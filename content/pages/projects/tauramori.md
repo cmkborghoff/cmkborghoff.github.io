@@ -8,7 +8,7 @@ description_medium:
 eleventyNavigation:
   key: TauraMori
   parent: Portfolio
-  order: 20
+  order: 56
 ---
 
 I run an online store called [TauraMori](https://www.etsy.com/shop/TauraMori) in my free time, where I create small batch jewelry and accessories. Most of the pieces use a variety of materials and fabrication techniques, including laser cutting and engraving, leatherwork, and sewing. I design, produce, pack, and ship everything myself.

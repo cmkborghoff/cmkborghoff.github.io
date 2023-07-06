@@ -9,7 +9,7 @@ description_medium:
 eleventyNavigation:
   key: Branch Ring
   parent: Portfolio
-  order: 100
+  order: 35
 ---
 
 Studio: Facets of Earth
