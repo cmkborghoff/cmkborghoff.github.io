@@ -10,6 +10,8 @@ eleventyNavigation:
   key: Branch Ring
   parent: Portfolio
   order: 35
+  hide: true
+eleventyExcludeFromCollections: true
 ---
 
 Studio: Facets of Earth
